@@ -1,16 +1,17 @@
 # IntroResearchMethods-Final-Project
  
 # Abstract:
-Taboo language ETC.
+Taboo language ETC.... and there is research to support both sides. 
 
 
 
 # Background information:
-Related work, such as LIST SOME PAPERS HERE. Güvendir (2015) combines these papers and papers about the neurobiology of swearing (such as EXAMPLE) to give an explanation as to why males would be more likely to use swear words than females. It should be mentioned that Güvendir examines "strong" swear words specifically, whereas this study will focus on a more general view of swearing.
+Thelwall (2008) found no significant differences in the usage of strong swearing in its UK MySpace members, while there was a significant difference for the US members; US males used more strong swear words than US females.
+
+Güvendir (2015) uses the claim that males generally use more strong swear words and papers about the neurobiology of swearing (such as EXAMPLE) to give an evolutionary explanation as to why males would be more likely to use swear words than females. It should be mentioned that Güvendir examines strong swear words specifically, whereas this study will focus on a more general view of swearing.
 
 As a sidenote, Güvendir describes the difference between strong and mild swearing in the following way: "Although offensiveness of swear words depends on contextual variables, the primary purpose of strong swear words is to produce an undesired emotional influence on a listener while mild swear words do not intentionally aim to hurt the listener."
 
-Maybe write about the "stranger on a train" effect, since it might be applicable in a limited way.
 
 # Research question and hypothesis:
 The specific research question that this study will focus on reads: “How does the frequency with which men and women use swear words in conversations with strangers, differ?”
@@ -24,4 +25,6 @@ There are a few reasons that this method is not entirely watertight. Firstly, si
 
 Nonetheless the nature of the conversations in the Fisher corpus and the credible labeling of participant sexes make it an interesting and relatively suitable corpus to use for this research.
 
-As for the swear word part of the research, the Fisher corpus will be scanned for the five most common swear words according to ........... This amount was chosen as a middle-ground between potentially limiting or .......... amounts, such as two and ten.
+As for the swear word part of the research, the Fisher corpus will be scanned for ten(?) of the most common swear words according to Jay (2009) The list of taboo words used by Jay (2009) accounts for approximately 80% of the data used in that study.
+
+Not all of these words are suitable for search, since they are not profanities by themselves, but only in context. One such phrase in Jay's list is the phrase "Jesus Christ".
